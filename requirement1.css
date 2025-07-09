@@ -1,0 +1,25 @@
+
+.beauty-btn
+{
+  background-color: #ff90b3;
+  color: white;
+  padding: 15px 30px;
+  font-size: 18px;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  box-shadow: 0 5px 15px rgba(255, 144, 179, 0.5);
+  transition: all 0.3s ease;
+}
+.beauty-btn:hover {
+  background-color: #ff6f9c;
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px rgba(255, 144, 179, 0.7);
+}
+
+.button2
+{
+    margin-left: 550px;
+    margin-top: 50px;
+}
